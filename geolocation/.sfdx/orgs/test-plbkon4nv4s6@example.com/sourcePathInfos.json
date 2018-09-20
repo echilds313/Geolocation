@@ -2,14 +2,14 @@
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1537412254463,
             "changeTime": 1537412254463,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1537412254463,
             "changeTime": 1537412254463,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,187 +32,354 @@
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1537413834293,
-            "changeTime": 1537413834293,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "modifiedTime": 1537444629677,
+            "changeTime": 1537444629677,
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1537412254463,
-            "changeTime": 1537412254463,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1537447991790,
+            "changeTime": 1537447991790,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1537412496710,
-            "changeTime": 1537412496710,
-            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "modifiedTime": 1537416843056,
+            "changeTime": 1537416843056,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "aeef2c12ce6e7b39fb504f4bb604595bd05a7f33"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1537413834265,
             "changeTime": 1537413834265,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1537413834273,
             "changeTime": 1537413834273,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1537413834281,
             "changeTime": 1537413834281,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1537413834285,
             "changeTime": 1537413834285,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1537413834289,
             "changeTime": 1537413834289,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 702,
             "modifiedTime": 1537413834293,
             "changeTime": 1537413834293,
-            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383"
+            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1537413834265,
             "changeTime": 1537413834265,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1537413834261,
             "changeTime": 1537413834261,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1537413834261,
             "changeTime": 1537413834261,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1537413834289,
             "changeTime": 1537413834289,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1537413834293,
             "changeTime": 1537413834293,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537444696498,
+            "changeTime": 1537444696498,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "size": 292,
+            "modifiedTime": 1537444745315,
+            "changeTime": 1537444745315,
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1537444696498,
+            "changeTime": 1537444696498,
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537447991931,
+            "changeTime": 1537447991931,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1537447991931,
+            "changeTime": 1537447991931,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 155,
+            "modifiedTime": 1537448155884,
+            "changeTime": 1537448155884,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1537447991794,
+            "changeTime": 1537447991794,
+            "contentHash": "83ff4d0b87ed5f90f60645958ed6ed7348c82a24"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 129,
+            "modifiedTime": 1537448188406,
+            "changeTime": 1537448188406,
+            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1537447991931,
+            "changeTime": 1537447991931,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1537447991927,
+            "changeTime": 1537447991927,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1537447991915,
+            "changeTime": 1537447991915,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1537447991919,
+            "changeTime": 1537447991919,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\echil\\Documents\\SFDXorg\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1537447991923,
+            "changeTime": 1537447991923,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
